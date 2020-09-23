@@ -1,5 +1,9 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SimpleDays&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+### 认识自己的无知是认识世界的最可靠的方法
+
+- 🔭 I’m currently working on SuZhou
+- 🌱 I’m currently learning C#,Java,Golang
 <!--
 **SimpleDays/SimpleDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
